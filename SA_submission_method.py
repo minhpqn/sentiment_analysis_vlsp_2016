@@ -88,7 +88,7 @@ def main(args):
     f = open(output, 'w')
     for sen, label in zip(test_sens, predicted_labels):
         f.write('%s\n' % sen)
-        f.write('%s\n\n' % label)
+        f.write('%s\n' % label)
     f.close()
     
 if __name__ == '__main__':

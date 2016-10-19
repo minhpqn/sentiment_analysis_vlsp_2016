@@ -26,7 +26,7 @@ def read_train_data(ws=True, tag=False):
                      'SA-training_neutral.txt',
         ]
 
-    label_codes = ['POS', 'NEG', 'NEUTRAL']
+    label_codes = ['POS', 'NEG', 'NEU']
 
     sentences = []
     labels = []
