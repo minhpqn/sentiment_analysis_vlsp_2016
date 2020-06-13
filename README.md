@@ -22,6 +22,20 @@ Use the script ```sample_erros.py```
 
 In which N is the number of samples for each class (POS, NEG, NEU)
 
+## Official Evaluation Results
+
+Our system rank third (system **sa3**) in VLSP Evaluation Campaign.
+The following table shows precision, recall, F1 score 
+for positive, negative categories and the average F1 of thr two 
+categories.
+
+<img src="./figs/fig01.png" width="500"/>
+
+The following tables shows the results for three categories
+positive, negative, and neutral.
+
+<img src="./figs/fig02.png" width="500"/>
+
 
 
 
