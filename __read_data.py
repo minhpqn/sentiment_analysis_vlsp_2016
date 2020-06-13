@@ -54,7 +54,7 @@ def read_test_data(ws=True, tag=False):
     datafile = './data/test_tokenized.txt'
 
     if not ws:
-        datafile = data/test_raw.txt
+        datafile = '.data/test_raw.txt'
 
     sentences = []
     with open(datafile, 'r') as f:
