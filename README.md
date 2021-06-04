@@ -26,7 +26,7 @@ In which N is the number of samples for each class (POS, NEG, NEU)
 
 Our system rank third (system **sa3**) in VLSP Evaluation Campaign.
 The following table shows precision, recall, F1 score 
-for positive, negative categories and the average F1 of thr two 
+for positive, negative categories and the average F1 of the two 
 categories.
 
 <img src="./figs/fig01.png" width="500"/>
